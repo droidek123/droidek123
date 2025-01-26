@@ -1,9 +1,9 @@
 # Hi 👋, I'm Andrzej
 
-🗿 A passionate programmer from Wrocław Poland \  
-💼 Working as fullstack developer since 2022 \
-💡 Studying compiuter sicience at Wrocław University of Science and Technology \
-🧡 My hobbies are mountain hiking and computer games \
+🗿 A passionate programmer from Wrocław Poland  
+💼 Working as fullstack developer since 2022  
+💡 Studying compiuter sicience at Wrocław University of Science and Technology  
+🧡 My hobbies are mountain hiking and computer games  
 
 # 🚀 Languages and Tools I Use
 
